@@ -33,6 +33,11 @@ Patuhi hukum dan etika cybersecurity.
 
 ---
 
+# 🚀 Cara Jalanin Script
+
+  python3 send_phishing_email.py
+  
+---
 
 ## ☕ Dukung aku agar tetap waras menulis script tengah malam...
 
